@@ -1,0 +1,33 @@
+[
+    {
+        "0": " ",
+        "pro_codigo":  "PRO001",
+        "pro_nombre": "Laptop Pavilion 2 en 1 14",
+        "pro_descripcion": "Laptop COre i7 8GB RAM ",
+        "pro_precio": 1000000,
+
+        "1": " ",
+        "pro_codigo":  "PRO002",
+        "pro_nombre": "Drone U42W WI-FI FPV",
+        "pro_descripcion": "Drone ocn ca,ara HD y estabilizacion de altura",
+        "pro_precio": 2000000,
+
+        "2": " ",
+        "pro_codigo":  "PRO003",
+        "pro_nombre":   "EPSON L575 IMPRESORA",
+        "pro_descripcion": "EPSON L575 impresora multifuncional tanque de tinta wifi",
+        "pro_precio": 700000,
+
+        "3": " ",
+        "pro_codigo":  "PRO004",
+        "pro_nombre": "PlayStation 4",
+        "pro_descripcion": "Sony PlayStation 4 pro 1TB + DualShock 4",
+        "pro_precio": 1500000,
+
+        "4": " ",
+        "pro_codigo":  "PRO005",
+        "pro_nombre": "Camara WIFI IP D-Link Wireless",
+        "pro_descripcion": "La camara IP D-link",
+        "pro_precio": 600000
+    }
+]
